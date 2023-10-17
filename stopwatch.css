@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+h3 {
+  font-size: 28px;
+margin-bottom: 0;
+}
+
+#display-number {
+  width: 100%;
+  letter-spacing: 5px;
+  border: none;
+  font-size: 48px;
+  margin: 80px 40px;
+}
+
+#buttons {
+  display: flex;
+  width: 100%;
+  gap: 10px;
+}
+
+#buttons button {
+  width: 130px;
+  height: 60px;
+  font-size: 18px;
+  font-weight: bold;
+}
